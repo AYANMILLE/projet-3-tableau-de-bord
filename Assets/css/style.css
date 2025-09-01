@@ -1,0 +1,160 @@
+.header {
+  background-color: rgb(243, 184, 184);
+  padding: 10px;
+}
+
+.nav-link {
+  font-size: 23px;
+  color: grey;
+  margin: 20px;
+}
+
+.nav-link:hover {
+  border-bottom: 3px solid red;
+}
+
+.menu {
+  font-size: 20px;
+  color: grey;
+}
+
+.row1 {
+  background-color: rgb(243, 184, 184);
+}
+
+.mon-lien {
+  color: white;
+  text-decoration: none;
+  font-size: 22px;
+  margin-left: 20px;
+}
+
+.mon-lien:hover {
+  color: white;
+}
+
+.lien {
+  background-color: red;
+  color: white;
+  padding: 10px;
+  border-radius: 10px;
+}
+
+.mon-menu {
+  color: white;
+  font-size: 21px;
+}
+
+.revenu {
+  font-size: 50px;
+  color: red;
+}
+
+.money {
+  font-size: 25px;
+  color: grey;
+}
+
+.card {
+  transition: 0.5s;
+}
+.card:hover {
+  transform: scale(0.9);
+}
+
+.nombre {
+  border-radius: 50%;
+  background-color: aliceblue;
+  padding: 20px;
+  margin-top: 50px;
+  transition: 0.5s;
+}
+
+.nombre:hover {
+  background-color: antiquewhite;
+}
+
+.para {
+  font-size: 20px;
+  color: grey;
+}
+
+.request {
+  background-color: azure;
+  border: 1px solid grey;
+  padding: 20px;
+  border-radius: 20px;
+}
+
+.request p {
+  background-color: aquamarine;
+  padding: 10px;
+  border-radius: 10px;
+  font-size: 18px;
+  color: rgb(104, 102, 102);
+  transition: 0.2s;
+}
+
+.request p:hover {
+  background-color: brown;
+  color: white;
+}
+
+.list {
+  border: 1px solid white;
+  padding: 50px;
+  border-radius: 20px;
+}
+
+.table {
+  margin-left: 30px;
+  margin-right: 30px;
+}
+
+th {
+  font-size: 20px;
+}
+
+td {
+  font-size: 18px;
+}
+
+.card p {
+  font-size: 18px;
+}
+
+.dest1:hover {
+  background-image: url("https://guide.visitdjibouti.dj/wp-content/uploads/2019/03/DOM4104-e1552200640438.jpg");
+  background-size: cover;
+  color: white;
+}
+
+.dest2:hover {
+  background-image: url("https://guide.visitdjibouti.dj/wp-content/uploads/2017/10/lacassal-20.jpg");
+  background-size: cover;
+  color: white;
+}
+
+.dest3:hover {
+  background-image: url("https://dynamic-media-cdn.tripadvisor.com/media/photo-o/22/a2/26/1d/ile-moucha-plage-paradisiaque.jpg?w=900&h=500&s=1");
+  background-size: cover;
+  color: white;
+}
+
+.dest4:hover {
+  background-image: url("https://img.liveaboard.com/imageserver/picture_library/site/diving/djibouti/goubet-al-kharab/goubet-al-kharab-xl.jpg");
+  background-size: cover;
+  color: white;
+}
+
+.dest5:hover {
+  background-image: url("https://guide.visitdjibouti.dj/wp-content/uploads/2018/01/DOM2989-790x400.jpg");
+  background-size: cover;
+  color: white;
+}
+
+.dest6:hover {
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyJPVAlyBSt90JcEkZqee5EJpoSlQSbn6U8tuwDpL0Ndr6mwsXSGTtiRHP0pzhD77GISA&usqp=CAU");
+  background-size: cover;
+  color: white;
+}
