@@ -124,37 +124,37 @@ td {
 }
 
 .dest1:hover {
-  background-image: url("https://guide.visitdjibouti.dj/wp-content/uploads/2019/03/DOM4104-e1552200640438.jpg");
+  background-image: url("../image/foret\ du\ day.jfif");
   background-size: cover;
   color: white;
 }
 
 .dest2:hover {
-  background-image: url("https://guide.visitdjibouti.dj/wp-content/uploads/2017/10/lacassal-20.jpg");
+  background-image: url("../image/lac\ assal.jfif");
   background-size: cover;
   color: white;
 }
 
 .dest3:hover {
-  background-image: url("https://dynamic-media-cdn.tripadvisor.com/media/photo-o/22/a2/26/1d/ile-moucha-plage-paradisiaque.jpg?w=900&h=500&s=1");
+  background-image: url("../image/ile\ moucha.jfif");
   background-size: cover;
   color: white;
 }
 
 .dest4:hover {
-  background-image: url("https://img.liveaboard.com/imageserver/picture_library/site/diving/djibouti/goubet-al-kharab/goubet-al-kharab-xl.jpg");
+  background-image: url("../image/goubet-al-kharab-xl.webp");
   background-size: cover;
   color: white;
 }
 
 .dest5:hover {
-  background-image: url("https://guide.visitdjibouti.dj/wp-content/uploads/2018/01/DOM2989-790x400.jpg");
+  background-image: url("../image/lac\ abbe.jfif");
   background-size: cover;
   color: white;
 }
 
 .dest6:hover {
-  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyJPVAlyBSt90JcEkZqee5EJpoSlQSbn6U8tuwDpL0Ndr6mwsXSGTtiRHP0pzhD77GISA&usqp=CAU");
+  background-image: url("../image/douda.jfif");
   background-size: cover;
   color: white;
 }
